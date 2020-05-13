@@ -47,8 +47,5 @@
 
 - *Career Goals*
   - Author
-  - Researcher (In the domain of artificial intelligence, brain computer interface tech)
-  - Entrepreneur (In the domain of artificial intelligence, brain computer interface tech)
-  - PSYOPS/Intelligence
-  - Data Scientist
+  - Research & Academia (In the domain of artificial intelligence, brain computer interface tech)
 
