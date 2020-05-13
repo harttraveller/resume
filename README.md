@@ -1,4 +1,6 @@
-*The following is a high level summary, but individual files also included with more extensive documentation in the repository.*
+### Hart Kiernan Traveller Massie-Keller
+### hartktraveller@gmail.com
+### 845.800.2251
 
 **Education**
 - Rensselaer Polytechnique Institute | B.S. Cognitive Science | Class of 2022 | Troy, New York
@@ -44,4 +46,11 @@
 - *Personal coursework/tracks*
 
 - *Reading list*
+
+- *Career Goals*
+  - Author
+  - Researcher (In the domain of artificial intelligence, brain computer interface tech)
+  - Entrepreneur (In the domain of artificial intelligence, brain computer interface tech)
+  - PSYOPS/Intelligence
+  - Data Scientist
 
