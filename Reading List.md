@@ -9,6 +9,10 @@
 **Economics and Finance**
 - Freakonomics
 - The wealth of nations
+- Capitalism and Freedom, Milton Friedman
+- Capitalism: A Treatise on Economics, George Reisman
+- Das Capital, Carl Marx
+- The Communist Manifesto, Carl Marx
 
 **Entrepreneurship**
 
@@ -62,9 +66,5 @@
 
 
 
-
-**Fiction**
-
-- 
 
 
