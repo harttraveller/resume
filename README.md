@@ -1,6 +1,4 @@
-### Hart Kiernan Traveller Massie-Keller
-### hartktraveller@gmail.com
-### 845.800.2251
+### Hart Kiernan Traveller Massie-Keller | hartktraveller@gmail.com | 845.800.2251
 
 **Education**
 - Rensselaer Polytechnique Institute | B.S. Cognitive Science | Class of 2022 | Troy, New York
