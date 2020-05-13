@@ -30,3 +30,18 @@
 - Ignite Business Competition
 - New School Social Science Fellowship
 - Deans List
+
+**Other**
+
+- *Work not included*
+
+- *Papers not included*
+
+- *School coursework not included and note on transfers*
+
+- *Online coursework not included*
+
+- *Personal coursework/tracks*
+
+- *Reading list*
+
