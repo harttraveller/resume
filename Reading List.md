@@ -18,8 +18,9 @@
 - Apex
 - Blindsight
 
-**Futurism**
+**Futurism and Modernism**
 - Homo Deus
+- Enlightenment Now
 
 **General Science**
 
@@ -50,6 +51,7 @@
 **Psychedelics**
 
 **Psychology**
+- How the Mind Works
 
 **Reason and Thinking**
 
